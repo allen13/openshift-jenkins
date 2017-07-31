@@ -1,2 +1,2 @@
 # openshift-jenkins
-Jenkins image for openshift
+Jenkins images for openshift
